@@ -107,7 +107,7 @@ Contains Odds Ratios and confidence intervals for building a forest plot.
 ### ✔ Boxplots  
 
 - Height distribution by sex  
-![Height distribution by sex](figures/boxplot2_sex2.png)
+![Height distribution by sex](figures/boxplot2_sex.png)
 
 
 ### ✔ Scatterplots  
