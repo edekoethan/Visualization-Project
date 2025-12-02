@@ -107,15 +107,15 @@ Contains Odds Ratios and confidence intervals for building a forest plot.
 ### ✔ Boxplots  
 
 - Height distribution by sex  
-![Height distribution by sex](figures/boxplot2.png)
+![Height distribution by sex](figures/boxplot2_sex2.png)
 
 
 ### ✔ Scatterplots  
 - Height vs weight, colored by sex  
-![Height vs weight, colored by sex](figures/scatterplots1.png)
+![Height vs weight, colored by sex](figures/scatterplot1.png)
 
 - Height vs weight, colored by sex  
-![Height vs weight, colored by sex](figures/scatterplots3.png)
+![Height vs weight, colored by sex](figures/scatterplot3.png)
 
 ### ✔ Forest Plot 
 
@@ -166,7 +166,7 @@ Generated figures are automatically saved as PNG files in:
 
 ## 📌 Notes
 
-- Image files are included as placeholders; replace them with your generated ones.
+
 - The project is fully reproducible as long as datasets are placed in the `/data` folder.
 
 ---
