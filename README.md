@@ -173,13 +173,13 @@ Generated figures are automatically saved as PNG files in:
 
 ## 🧑‍💻 Authors
 
-Prime Study Group (Unversity of Oulu)
-Benjamin Onyekachi Divine
-Austin Ibilbor Ewere
-Faith Kolawole
-Edeko Eromosele
+-Prime Study Group (Unversity of Oulu)
+-Benjamin Onyekachi Divine
+-Austin Ibilbor Ewere
+-Faith Kolawole
+-Edeko Eromosele
 
-Data Science & Epidemiology Projects  
+-Data Science & Epidemiology Projects  
 
 ---
 
